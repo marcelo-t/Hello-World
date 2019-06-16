@@ -1,3 +1,3 @@
 This is a basic text file that was created in GitHub.
 
-second line was deleted and this was inserted
+second line was changed again
